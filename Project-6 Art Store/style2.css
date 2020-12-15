@@ -1,0 +1,58 @@
+
+body
+{
+    padding: 0;
+	margin: 0;
+    background-image: url("elephant.jpg");
+    background-size: 100;
+	background-attachment: fixed;
+	margin-bottom: 0;
+	padding-bottom: 0;
+    
+}
+
+header
+{
+    margin-left: 4rem;
+    background-color: white;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    
+}
+header h2
+{
+    font-size: 0.75rem;
+    
+}
+header h1
+{
+    font-family: 'Times new roman', sans-serif;
+    font-size: 2rem;
+}
+article
+{
+    background-color:rgba(240, 35, 35, 0.5);
+    margin-top: 4rem;
+    margin-right: 0rem;
+    margin-bottom: 0rem;
+    margin-left: 6rem;
+    width: 33rem;
+}
+article p
+{
+    padding-top: 2rem;
+    padding-right: 1rem;
+    padding-bottom: 0rem;
+    padding-left: 1rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+article h2
+{
+    padding: 1.5rem;
+    font-size: 1.5rem;
+}
+
